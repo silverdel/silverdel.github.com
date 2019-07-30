@@ -1,12 +1,9 @@
-## Silverdel's Github page
+# Silverdel's Github page
 
-Test page. will be updaing. 
 ```markdown
-Hello
+Hello, This Test page will be updated soon.
 ```
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Markdown Test
 
 ```markdown
 Syntax highlighted code block
@@ -17,6 +14,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+* list
+* list
 
 1. Numbered
 2. List
